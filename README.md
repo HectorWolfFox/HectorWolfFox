@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Software Analyst & Developer in Training 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Programando+cosas+que+funcionan+(la+mayoria+del+tiempo);Coding+things+that+work+(most+of+the+time);leyendo+libros;lovecraftiando;jugando;farmeando+recursos;charlando;dibujando+(si+es+que+salgo+del+bloqueo+creativo);escuchando+musica;escribiendo;pensando+nuevas+ideas+para+expresar;Gamer+de+corazon+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Programando+cosas+que+funcionan+(la+mayoria+del+tiempo);Coding+things+that+work+(most+of+the+time);leyendo+libros;lovecrafteando;jugando;farmeando+recursos;charlando;dibujando+(si+es+que+salgo+del+bloqueo+creativo);escuchando+musica;escribiendo;pensando+nuevas+ideas+para+expresar;Gamer+de+corazon+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
