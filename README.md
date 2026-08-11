@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Software Analyst & Developer in Training 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Programando+cosas+que+funcionan+(la+mayoria+del+tiempo);Coding+things+that+work+(most+of+the+time);React+%2B+Node.js+%2B+FastAPI+enjoyer;Gamer+de+corazon+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Programando+cosas+que+funcionan+(la+mayoria+del+tiempo);Coding+things+that+work+(most+of+the+time);leyendo+libros;lovecraftiando;jugando;farmeando+recursos;charlando;dibujando+(si+es+que+salgo+del+bloqueo+creativo);escuchando+musica;escribiendo;pensando+nuevas+ideas+para+expresar;Gamer+de+corazon+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -110,26 +110,10 @@ When I'm not coding, you'll likely find me drawing, juggling a handful of games 
 
 <p align="left">
 <a href="https://github.com/HectorWolfFox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-
-> 💡 Agrega aquí tu LinkedIn cuando lo tengas listo — un recruiter siempre lo busca primero.
-> 💡 Add your LinkedIn here once it's ready — recruiters always look for it first.
-
----
-
-## 📊 Estadísticas de GitHub / GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HectorWolfFox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorWolfFox&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorWolfFox&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HectorWolfFox&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<a href="https://twitter.com/hectorwolffox_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/hectorwolffox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hectorwolffox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://discord.gg/YtpqUhYn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
