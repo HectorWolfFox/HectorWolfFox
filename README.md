@@ -106,7 +106,7 @@ When I'm not coding, you'll likely find me drawing, juggling a handful of games 
 
 ---
 
-## 🔗 Enlaces Profesionales / Professional Links
+## 🔗 Enlaces / Links
 
 <p align="left">
 <a href="https://github.com/HectorWolfFox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
